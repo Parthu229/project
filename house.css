@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(73, 201, 201);
+    
+}
+.one{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.two{
+    box-shadow: 5px 5px 5px rgba(88, 89, 89, 0.5);
+    padding-left: 15px;
+    border-color: blue;
+}
+
+.three{
+    text-align: left;
+}
+
+form {
+    display: flex;
+    flex-direction: column; 
+    gap: 5px;
+}
